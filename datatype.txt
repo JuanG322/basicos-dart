@@ -1,0 +1,17 @@
+void main() {
+ 
+  
+  
+  int number = 15;
+  double number2 = 1.85;
+  String nombre = "Juan Jose Giraldo";
+  
+  print("el numero 1 es: $number");
+  print(number2);
+  print(nombre.substring(5,9 ));//con substring pudo mostra solo una parte del string
+  
+  bool hola = true;
+  print("hola es verdadero: $hola");
+  
+ 
+}

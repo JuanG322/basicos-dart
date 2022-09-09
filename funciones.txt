@@ -1,0 +1,25 @@
+void main() {
+  //funciones
+  saludos("Juan");
+  
+}
+
+/*void saludos(String nombre){
+  print("Bienvenido $nombre");
+}*/
+
+void saludos(String nombre) => print("Bienvenido $nombre");
+
+/*modo 2
+ * 
+ * void main() {
+  
+  String mensaje = saludos("Juan");
+  print(mensaje);
+  
+}
+
+String saludos(String nombre){
+  String mensaje = "bienvenido $nombre";
+  return mensaje;
+}*/

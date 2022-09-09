@@ -1,0 +1,10 @@
+void main() {
+  
+  int numero = 10;
+  int index = 0;
+  
+  while(index <= numero){
+    print("OLA<<3 $index");
+    index++;
+  }
+}
